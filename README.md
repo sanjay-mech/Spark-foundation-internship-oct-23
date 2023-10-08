@@ -45,4 +45,19 @@ make more profit.<br>
 > Solution:
 <a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/Task%203/Task_3_Data_Science_%26_Business_Analytics_Internship_at_The_Sparks_Foundation.ipynb"> Exploratory Data Analysis-Retail</a>
 
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Prediction using Decision Tree Algorithm -Level  Intermediate-orange.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
+
+> Problem Statement:
+- Create the Decision Tree classifier and visualize it graphically.<br>
+- The purpose is if we feed any new data to this classifier, it would be able to
+predict the right class accordingly. <br>
+- Use R or Python or perform this task<br>
+- Here is the dataset :
+<a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/task%206/Iris.csv">Dataset.csv</a><br><br>
+> Solution:
+<a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/task%206/Data_Science_%26_Business_Analytics_Task_6.ipynb">Prediction using DecisionTreeAlgorithm </a>
+
+
 
