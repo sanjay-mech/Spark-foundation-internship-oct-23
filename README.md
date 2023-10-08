@@ -41,7 +41,7 @@ make more profit.<br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 - Here is the dataset :
-<a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/Task%203/SampleSuperstore.csv"</a><br><br><br>
+<a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/Task%203/SampleSuperstore.csv"></a><br><br><br>
 > Solution:
 <a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/Task%203/Task_3_Data_Science_%26_Business_Analytics_Internship_at_The_Sparks_Foundation.ipynb"> Exploratory Data Analysis-Retail</a>
 
