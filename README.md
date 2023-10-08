@@ -29,5 +29,20 @@ represent it visually.<br>
 > Solution:
 <a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/Task%202/Task%202%20Data%20Science%20%26%20Business%20Analytics%20Internship%20at%20The%20Sparks%20Foundation%20.ipynb"> Prediction using UnSupervised ML</a>
 
+<br><br>
+<img height="27" src="https://img.shields.io/badge/Exploratory Data Analysis (Retail) -Level  Beginner-green.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
+<br>
+
+> Problem Statement:
+- Perform ‘Exploratory Data Analysis’ on dataset ‘Retail(Dataset).csv’ <br>
+- As a business manager, try to find out the weak areas where you can work to
+make more profit.<br>
+- What all business problems you can derive by exploring the data?<br>
+- You can choose any of the tool of your choice<br>
+(Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
+- Here is the dataset :
+<a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/Task%203/SampleSuperstore.csv"</a><br><br><br>
+> Solution:
+<a href="https://github.com/sanjay-mech/Spark-foundation-internship-oct-23/blob/main/Task%203/Task_3_Data_Science_%26_Business_Analytics_Internship_at_The_Sparks_Foundation.ipynb"> Exploratory Data Analysis-Retail</a>
 
 
